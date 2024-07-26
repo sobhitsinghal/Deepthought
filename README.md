@@ -1,4 +1,3 @@
-Successfully completed the DeepThought Assignment.
 Assignment Description:
 
 Task1: Webpage creation i. You are given a Figma file with the page design ii. You are asked to create HTML CSS code accordingly
